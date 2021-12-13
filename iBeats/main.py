@@ -46,10 +46,10 @@ def main(time_list_str, value_list_str):
     value_list = [int(float(i)) for i in value_list]
 
     s = make_summary_str(time_list, value_list)
-    replace_readme_comments("README.md", s, "my_heart_rate")
+    replace_readme_comments("iBeats/README.md", s, "my_heart_rate")
 
     # generate heart rate svg and save
-    h = Heart(os.path.join(OUT_FOLDER, "heart.svg"))
+    h = Heart(os.path.join(OUT_FOLDER, "iBeats/heart.svg"))
     h.set_values(value_list)
     h.make_heart_svg()
 
