@@ -4,8 +4,9 @@ Apple Watch 心率数据采集 - Your Soul, Your Beats!
 ![](./files/heart.svg)
 
 <!--START_SECTION:my_heart_rate-->
-| Time | Rate |
- | ---- | ---- |
+| Time | Rate | 
+ | ---- | ---- | 
+| 2021年12月13日 18:30 | 73 |
 | 2021年12月13日 18:25 | 61 |
 | 2021年12月13日 18:21 | 71 |
 | 2021年12月13日 18:18 | 88 |
@@ -17,7 +18,6 @@ Apple Watch 心率数据采集 - Your Soul, Your Beats!
 | 2021年12月13日 17:37 | 60 |
 | 2021年12月13日 17:31 | 76 |
 | 2021年12月13日 17:22 | 73 |
-| 2021年12月13日 17:21 | 64 |
 
 <!--END_SECTION:my_heart_rate-->
 
