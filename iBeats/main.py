@@ -9,7 +9,7 @@ GITHUB_README_COMMENTS = (
 )
 HEART_RATE_HEAD = "| Time | Rate | \n | ---- | ---- | \n"
 HEART_RATE_STAT_TEMPLATE = "| {time} | {value} |\n"
-OUT_FOLDER = os.path.join(os.getcwd(), "files")
+OUT_FOLDER = os.path.join(os.getcwd(), "iBeats/files")
 
 
 def replace_readme_comments(file_name, comment_str, comments_name):
@@ -49,7 +49,7 @@ def main(time_list_str, value_list_str):
     replace_readme_comments("iBeats/README.md", s, "my_heart_rate")
 
     # generate heart rate svg and save
-    h = Heart(os.path.join(OUT_FOLDER, "iBeats/heart.svg"))
+    h = Heart(os.path.join(OUT_FOLDER, "heart.svg"))
     h.set_values(value_list)
     h.make_heart_svg()
 
