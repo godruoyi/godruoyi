@@ -30,9 +30,9 @@ Fork From https://github.com/yihong0618/iBeats .
 
 # 注意事项
 
-注意替换 GitHub API 路径，https://api.github.com/repos/{owner}/{reps}/actions/workflows/{workflow.yml}/dispatches。如我的路径为 https://api.github.com/repos/godruoyi/godruoyi/actions/workflows/iBeats.yml/dispatches.
+注意替换 GitHub API 路径，https://api.github.com/repos/{owner}/{reps}/actions/workflows/{workflow.yml}/dispatches 。
 
-其中 iBeats.yml 为 workflow 文件名。
+其中 workflow.yml 为 workflow 文件名。
 
 # 特别感谢
 - @[wuhan005](https://github.com/wuhan005) 特别棒的项目 [mebeats](https://github.com/wuhan005/mebeats)
