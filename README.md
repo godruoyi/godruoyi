@@ -1,10 +1,6 @@
 ### Hello there 👋
 
-<a href="https://github.com/godruoyi/godruoyi/tree/master/iBeats" alt="My Heartbeat">
-  <img align="right" width="150px" src="https://raw.githubusercontent.com/godruoyi/godruoyi/master/iBeats/files/heart.svg"/>
-</a>
-
-My name is Godruoyi, A Pseudo-Introvert, A web developer, And a Maker.
+My name is Lianbo Xu, A problem solver with tools.
 
 - 🔭 Interested in full stack. Focus on backend.
 - 🌱 Currently learning Golang and Rust.
