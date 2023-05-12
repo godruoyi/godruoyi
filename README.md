@@ -1,10 +1,5 @@
 ### Hello there 👋
 
-
-<a href="https://wakatime.com/@godruoyi" alt="Coding">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=@godruoyi&layout=compact&langs_count=6"/>
-</a>
-
 My name is Lianbo Xu, A problem solver with tools.
 
 - 🔭 Interested in full stack. Focus on backend.
