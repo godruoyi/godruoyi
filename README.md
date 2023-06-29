@@ -8,3 +8,5 @@ My name is Lianbo Xu, A problem solver with tools.
 - ✍🏻 I write my personal thoughts on Programming & Tech & Life in my [Personal Blog](https://godruoyi.com).
 - 👒 [Read more](https://godruoyi.com/posts/About-godruoyi).
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
