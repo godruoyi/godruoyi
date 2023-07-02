@@ -11,13 +11,13 @@ My name is Lianbo Xu, A problem solver with tools.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 June 2023 - To: 30 June 2023
+From: 24 June 2023 - To: 01 July 2023
 
-Go               8 hrs 2 mins    ████████████████░░░░░░░░░   64.10 %
-Rust             1 hr 43 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.75 %
-Thrift           59 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 %
-Markdown         33 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 %
-PHP              13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 %
+Go               8 hrs 10 mins   ████████████████▒░░░░░░░░   65.70 %
+Rust             1 hr 43 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.86 %
+Thrift           59 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 %
+Markdown         33 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 %
+YAML             11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
 ```
 
 <!--END_SECTION:waka-->
