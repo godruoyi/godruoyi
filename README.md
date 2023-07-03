@@ -11,7 +11,7 @@ My name is Lianbo Xu, A problem solver with tools.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 June 2023 - To: 01 July 2023
+From: 25 June 2023 - To: 02 July 2023
 
 Go               8 hrs 10 mins   ████████████████▒░░░░░░░░   65.70 %
 Rust             1 hr 43 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.86 %
