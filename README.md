@@ -1,12 +1,12 @@
 ### Hello there 👋
 
-My name is Lianbo Xu, A problem solver with tools.
+My name is Lianbo, I work remotely and enjoy using open source and efficient tools.
 
 - 🔭 Interested in full stack. Focus on backend.
 - 🌱 Currently learning Golang and Rust.
 - 💻 With 6 years' development working experience.
-- ✍🏻 I write my personal thoughts on Programming & Tech & Life in my [Personal Blog](https://godruoyi.com).
-- 👒 [Read more](https://godruoyi.com/posts/About-godruoyi).
+- ✍🏻 I share my life/technology/thoughts on my [personal blog](https://godruoyi.com).
+- 👒 [About me more](https://godruoyi.com/posts/About-godruoyi).
 
 <!--START_SECTION:waka-->
 
