@@ -11,13 +11,13 @@ My name is Lianbo, I work remotely and enjoy using open source and efficient too
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 July 2023 - To: 04 August 2023
+From: 29 July 2023 - To: 05 August 2023
 
-Go               6 hrs 11 mins   ███████▒░░░░░░░░░░░░░░░░░   29.74 %
-Rust             4 hrs 29 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.57 %
-Blade Template   3 hrs 49 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.37 %
-PHP              2 hrs 44 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.16 %
-TOML             53 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 %
+Go               6 hrs 11 mins   ███████▓░░░░░░░░░░░░░░░░░   30.10 %
+Rust             4 hrs 38 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.60 %
+Blade Template   3 hrs 48 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.49 %
+PHP              2 hrs 35 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.58 %
+TOML             46 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 %
 ```
 
 <!--END_SECTION:waka-->
