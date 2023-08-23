@@ -11,13 +11,13 @@ My name is Lianbo, I work remotely and enjoy using open source and efficient too
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 August 2023 - To: 21 August 2023
+From: 15 August 2023 - To: 22 August 2023
 
-Java             8 hrs 25 mins   ███████████░░░░░░░░░░░░░░   43.51 %
-Go               5 hrs 47 mins   ███████▒░░░░░░░░░░░░░░░░░   29.98 %
-Python           4 hrs 10 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.54 %
-Thrift           17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
-YAML             11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
+Java             7 hrs 34 mins   ██████████▒░░░░░░░░░░░░░░   41.62 %
+Go               5 hrs 31 mins   ███████▓░░░░░░░░░░░░░░░░░   30.35 %
+Markdown         3 hrs 42 mins   █████░░░░░░░░░░░░░░░░░░░░   20.41 %
+SQL              19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
+Thrift           17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
 ```
 
 <!--END_SECTION:waka-->
