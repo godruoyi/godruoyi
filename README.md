@@ -11,7 +11,7 @@ My name is Lianbo, I work remotely and enjoy using open source and efficient too
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 August 2023 - To: 26 August 2023
+From: 20 August 2023 - To: 27 August 2023
 
 Java             5 hrs 36 mins   ████████▒░░░░░░░░░░░░░░░░   33.07 %
 Markdown         5 hrs 7 mins    ███████▓░░░░░░░░░░░░░░░░░   30.27 %
