@@ -7,14 +7,11 @@ jobs:
   wakeup:
     name: wakeup bot
     runs-on: ubuntu-latest
-
     steps:
-      - name: wakeup bot
-      uses: godruoyi/wekeup@0.1
-      with:
-        bing_auth_token: ${{ secrets.BING_AUTH_TOKEN }}
-        tg_token: ${{ secrets.TG_TOKEN }}
-        tg_chat_id: ${{ secrets.TG_CHAT_ID }}
-        weather_city: ${{ secrets.CITY }}
-            
-      
+      - name: Wakeup
+        uses: godruoyi/wekeup@0.1
+        with:
+          bing_auth_token: ${{ secrets.BING_AUTH_TOKEN }}
+          tg_token: ${{ secrets.TG_TOKEN }}
+          tg_chat_id: ${{ secrets.TG_CHAT_ID }}
+          weather_city: ${{ secrets.CITY }}
