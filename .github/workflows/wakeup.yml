@@ -5,6 +5,7 @@ on:
 
 jobs:
   wakeup:
+    name: wakeup bot
     runs-on: ubuntu-latest
 
     steps:
