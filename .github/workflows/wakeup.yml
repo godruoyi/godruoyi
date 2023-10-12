@@ -1,0 +1,14 @@
+name: wakeuppppp
+
+on:
+  workflow_dispatch:
+
+jobs:
+  wakeup:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: wakeup bot
+      uses: godruoyi/wekeup@0.1
+            
+      
