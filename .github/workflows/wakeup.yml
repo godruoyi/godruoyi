@@ -9,7 +9,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Wakeup
-        uses: godruoyi/wekeup@0.1
+        uses: godruoyi/wekeup@main
         with:
           bing_auth_token: ${{ secrets.BING_AUTH_TOKEN }}
           tg_token: ${{ secrets.TG_TOKEN }}
