@@ -18,3 +18,4 @@ jobs:
           openai_api_type: "azure"
           openai_api_version: "2023-06-01-preview"
           openai_api_key: ${{ secrets.OPENAI_API_KEY }}
+          send_error: "true"
