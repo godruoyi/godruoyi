@@ -13,7 +13,7 @@ jobs:
         with:
           tg_token: ${{ secrets.TG_TOKEN }}
           tg_chat_id: ${{ secrets.TG_CHAT_ID }}
-          weather_city: "重庆"
+          weather_city: "chongqing"
 
           # use openai azure api
           openai_api_base: "https://godruoyi-openai-azure.openai.azure.com/"
@@ -24,5 +24,5 @@ jobs:
           # send error message when occur error
           send_error: "true"
 
-          message_format: "{weather}, 起床时间: {get_up_time}\r\n起床啦，今天又是充满活力的一天，赶紧起来换尿布吧。\r\n今日诗句: {sentence}\r\nPowered by {driver}"
-          error_message_format: "{weather}, 起床时间: {get_up_time}\r\n起床啦，虽然图片生成失败了，但今天依然是充满活力的一天，。\r\n今日诗句: {sentence}\r\n生成图片失败: {error} Driver: {driver}"
+          message_format: "今天的天气: {weather}, 起床时间: {get_up_time}\r\n\r\n起床啦，今天又是充满活力的一天，赶紧起来换尿布吧。\r\n\r\n今日诗句: {sentence}\r\n\r\nPowered by {driver}"
+          error_message_format: "今天的天气: {weather}, 起床时间: {get_up_time}\r\n\r\n起床啦，虽然图片生成失败了，但今天依然是充满活力的一天，。\r\n\r\n今日诗句: {sentence}\r\n\r\n生成图片失败: {error} Driver: {driver}"
