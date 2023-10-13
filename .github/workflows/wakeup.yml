@@ -11,7 +11,10 @@ jobs:
       - name: Wakeup
         uses: godruoyi/wekeup@main
         with:
-          bing_auth_token: ${{ secrets.BING_AUTH_TOKEN }}
           tg_token: ${{ secrets.TG_TOKEN }}
           tg_chat_id: ${{ secrets.TG_CHAT_ID }}
-          weather_city: ${{ secrets.CITY }}
+          weather_city: "重庆"
+          openai_api_base: "https://godruoyi-openai-azure.openai.azure.com/"
+          openai_api_type: "azure"
+          openai_api_version: "2023-06-01-preview"
+          openai_api_key: ${{ secrets.OPENAI_API_KEY }}
