@@ -11,15 +11,23 @@ jobs:
       - name: Wakeup
         uses: godruoyi/wekeup@main
         with:
-          tg_token: ${{ secrets.TG_TOKEN }}
-          tg_chat_id: ${{ secrets.TG_CHAT_ID }}
+          drivers: "bing_ball_e3,openai"
+
           weather_city: "chongqing"
 
-          # use openai azure api
+          # telegram bot config
+          tg_token: ${{ secrets.TG_TOKEN }}
+          tg_chat_id: ${{ secrets.TG_CHAT_ID }}
+
+          # openai azure api config
           openai_api_base: "https://godruoyi-openai-azure.openai.azure.com/"
           openai_api_type: "azure"
           openai_api_version: "2023-06-01-preview"
           openai_api_key: ${{ secrets.OPENAI_API_KEY }}
+
+          # bing auth token
+          bing_auth_token: ${{ secrets.BING_AUTH_TOKEN }}
+          bing_auth_token_kiev: ${{ secrets.BING_AUTH_TOKEN_KIEV }}
 
           # send error message when occur error
           send_error: "true"
