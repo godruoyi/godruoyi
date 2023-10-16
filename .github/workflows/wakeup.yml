@@ -12,6 +12,7 @@ jobs:
         uses: godruoyi/wekeup@main
         with:
           drivers: "bing_ball_e3,openai"
+          channels: "slack"
 
           weather_city: "chongqing"
 
@@ -34,3 +35,8 @@ jobs:
 
           message_format: "今天的天气: {weather}, 起床时间: {get_up_time}\r\n\r\n起床啦，今天又是充满活力的一天，赶紧起来换尿布吧。\r\n\r\n今日诗句: {sentence}\r\n\r\nPowered by {driver}"
           error_message_format: "今天的天气: {weather}, 起床时间: {get_up_time}\r\n\r\n起床啦，虽然图片生成失败了，但今天依然是充满活力的一天，。\r\n\r\n今日诗句: {sentence}\r\n\r\n生成图片失败: {error} Driver: {driver}"
+        env:
+          SLACK_TOKEN: ${{ secrets.SLACK_TOKEN }}
+          SLACK_CHAT_ID: "C0616U4LYHZ"
+
+
