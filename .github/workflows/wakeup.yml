@@ -11,8 +11,8 @@ jobs:
       - name: Wakeup
         uses: godruoyi/wekeup@main
         with:
-          drivers: "bing_ball_e3,openai"
-          channels: "slack"
+          drivers: "bing_ball_e3" # "bing_ball_e3,openai"
+          channels: "slack"       # "slack,tg"
 
           weather_city: "chongqing"
 
