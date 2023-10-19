@@ -12,13 +12,13 @@ jobs:
         uses: godruoyi/wekeup@main
         with:
           drivers: "bing_ball_e3" # "bing_ball_e3,openai"
-          channels: "slack"       # "slack,tg"
+          channels: "tg"       # "slack,tg"
 
           weather_city: "chongqing"
 
           # telegram bot config
           tg_token: ${{ secrets.TG_TOKEN }}
-          tg_chat_id: ${{ secrets.TG_CHAT_ID }}
+          tg_chat_id: "-1002002109011"
 
           slack_token: ${{ secrets.SLACK_TOKEN }}
           slack_chat_id: "C0616U4LYHZ"
