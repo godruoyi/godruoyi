@@ -12,7 +12,7 @@ jobs:
         uses: godruoyi/wekeup@main
         with:
           drivers: "bing_ball_e3" # "bing_ball_e3,openai"
-          channels: "tg"       # "slack,tg"
+          channels: "tg,slack"       # "slack,tg"
 
           weather_city: "chongqing"
 
