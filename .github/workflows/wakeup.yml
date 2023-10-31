@@ -11,7 +11,7 @@ jobs:
       - name: Wakeup
         uses: godruoyi/wekeup@main
         with:
-          drivers: "bing_ball_e3" # "bing_ball_e3,openai"
+          drivers: "bing_ball_e3,baidu" # "bing_ball_e3,openai"
           channels: "tg,slack"       # "slack,tg"
 
           weather_city: "chongqing"
@@ -32,6 +32,9 @@ jobs:
           # bing auth token
           bing_auth_token: ${{ secrets.BING_AUTH_TOKEN }}
           bing_auth_token_kiev: ${{ secrets.BING_AUTH_TOKEN_KIEV }}
+
+          qianfan_ak: ${{ secrets.QIANFAN_AK }}
+          qianfan_sk: ${{ secrets.QIANFAN_SK }}
 
           # send error message when occur error
           send_error: "true"
