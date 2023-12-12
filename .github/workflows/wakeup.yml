@@ -12,7 +12,7 @@ jobs:
         uses: godruoyi/wekeup@main
         with:
           drivers: "bing_ball_e3,baidu" # "bing_ball_e3,openai"
-          channels: "tg,slack"       # "slack,tg"
+          channels: "tg"       # "slack,tg"
 
           weather_city: "chongqing"
 
@@ -30,8 +30,12 @@ jobs:
           openai_api_key: ${{ secrets.OPENAI_API_KEY }}
 
           # bing auth token
-          bing_auth_token: ${{ secrets.BING_AUTH_TOKEN }}
-          bing_auth_token_kiev: ${{ secrets.BING_AUTH_TOKEN_KIEV }}
+          #
+          # deprecated
+          # bing_auth_token: ${{ secrets.BING_AUTH_TOKEN }}
+          # bing_auth_token_kiev: ${{ secrets.BING_AUTH_TOKEN_KIEV }}
+          #
+          bing_all_cookies: ${{ secrets.BING_ALL_COOKIES }}
 
           qianfan_ak: ${{ secrets.QIANFAN_AK }}
           qianfan_sk: ${{ secrets.QIANFAN_SK }}
