@@ -14,7 +14,7 @@ jobs:
           drivers: "bing_ball_e3,baidu" # "bing_ball_e3,openai"
           channels: "tg"       # "slack,tg"
 
-          weather_city: "chongqing"
+          # weather_city: "chongqing"
 
           # telegram bot config
           tg_token: ${{ secrets.TG_TOKEN }}
