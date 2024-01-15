@@ -11,7 +11,7 @@ My name is Lianbo, I work remotely and enjoy using open source and efficient too
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 January 2024 - To: 13 January 2024
+From: 07 January 2024 - To: 14 January 2024
 
 PHP                   10 hrs 6 mins   █████████████▒░░░░░░░░░░░   53.49 %
 Go                    6 hrs 19 mins   ████████▒░░░░░░░░░░░░░░░░   33.42 %
