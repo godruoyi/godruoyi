@@ -11,7 +11,7 @@ My name is Lianbo, I work remotely and enjoy using open source and efficient too
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 March 2024 - To: 15 March 2024
+From: 09 March 2024 - To: 16 March 2024
 
 Go             10 hrs 28 mins  ██████████████▓░░░░░░░░░░   58.84 %
 Java           3 hrs 53 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.88 %
