@@ -11,13 +11,13 @@ My name is Lianbo, I work remotely and enjoy using open source and efficient too
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 April 2024 - To: 14 April 2024
+From: 08 April 2024 - To: 15 April 2024
 
-Go                 11 hrs 1 min    ████████████████░░░░░░░░░   64.66 %
-Java               1 hr 28 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.68 %
-Markdown           1 hr 12 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.09 %
-TypeScript         53 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.21 %
-Text               36 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 %
+Go                 15 hrs 30 mins  ██████████████████░░░░░░░   71.99 %
+Java               1 hr 34 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.28 %
+TypeScript         1 hr 3 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   04.91 %
+Markdown           51 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 %
+Astro              46 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 %
 ```
 
 <!--END_SECTION:waka-->
