@@ -11,7 +11,7 @@ My name is Lianbo, I work remotely and enjoy using open source and efficient too
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 May 2024 - To: 07 June 2024
+From: 01 June 2024 - To: 08 June 2024
 
 TypeScript       13 hrs 49 mins  █████████████████▓░░░░░░░   70.39 %
 Go               3 hrs 9 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.09 %
