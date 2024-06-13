@@ -6,7 +6,7 @@ My name is Lianbo, I work remotely and enjoy using open source and efficient too
 - 🌱 Currently learning Golang and Rust.
 - 💻 With 6 years' development working experience.
 - ✍🏻 I share my life/technology/thoughts on my [personal blog](https://godruoyi.com).
-- 👒 [About me more](https://godruoyi.com/posts/About-godruoyi).
+- 👒 [About me more](https://godruoyi.com/posts/about-godruoyi).
 
 <!--START_SECTION:waka-->
 
