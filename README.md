@@ -7,7 +7,6 @@ Hi there, I work remotely and enjoy using open-source and efficient tools.
 - 🔭 Interested in full stack. Focus on backend.
 - 🌱 Currently learning Golang and Rust.
 - 💻 With 6 years of development working experience.
-- ✍🏻 I share my life/technology/thoughts on my [personal blog](https://godruoyi.com).
 - 👒 [About me more](https://godruoyi.com/posts/about-godruoyi).
 
 ----
