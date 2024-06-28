@@ -9,8 +9,6 @@ Hi there, I work remotely and enjoy using open-source and efficient tools.
 - 💻 With 6 years of development working experience.
 - 👒 [About me more](https://godruoyi.com/posts/about-godruoyi).
 
-----
-
 <!--START_SECTION:waka-->
 
 ```txt
