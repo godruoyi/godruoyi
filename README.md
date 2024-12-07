@@ -12,13 +12,13 @@ Hi there, I work remotely and enjoy using open-source and efficient tools.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 November 2024 - To: 05 December 2024
+From: 29 November 2024 - To: 06 December 2024
 
-Rust             3 hrs 42 mins   ███████▒░░░░░░░░░░░░░░░░░   29.03 %
-Go               3 hrs 29 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.30 %
-Java             2 hrs 42 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.14 %
-PHP              52 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.90 %
-Thrift           30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 %
+Go               4 hrs 5 mins    ███████░░░░░░░░░░░░░░░░░░   27.40 %
+Rust             3 hrs 17 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.07 %
+Java             2 hrs 42 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.13 %
+TypeScript       1 hr 15 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 %
+JavaScript       55 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.17 %
 ```
 
 <!--END_SECTION:waka-->
