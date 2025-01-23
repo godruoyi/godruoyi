@@ -12,13 +12,13 @@ Hi there, I work remotely and enjoy using open-source and efficient tools.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 January 2025 - To: 20 January 2025
+From: 15 January 2025 - To: 22 January 2025
 
-Go           3 hrs 37 mins   ███████████░░░░░░░░░░░░░░   44.63 %
-TypeScript   2 hrs           ██████▒░░░░░░░░░░░░░░░░░░   24.74 %
-JSON         1 hr 23 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.24 %
-JavaScript   49 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.28 %
-Markdown     9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 %
+Go           1 hr 25 mins    ████████░░░░░░░░░░░░░░░░░   31.86 %
+TypeScript   1 hr 10 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.38 %
+JSON         52 mins         █████░░░░░░░░░░░░░░░░░░░░   19.58 %
+JavaScript   49 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.58 %
+Markdown     7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 %
 ```
 
 <!--END_SECTION:waka-->
