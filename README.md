@@ -12,13 +12,13 @@ Hi there, I work remotely and enjoy using open-source and efficient tools.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 October 2025 - To: 08 October 2025
+From: 02 October 2025 - To: 09 October 2025
 
-Go               16 hrs 23 mins  █████████████████████▓░░░   87.13 %
-Text             1 hr 1 min      █▒░░░░░░░░░░░░░░░░░░░░░░░   05.47 %
-Other            33 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 %
-GitIgnore file   19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
-Thrift           13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
+Go            12 hrs 53 mins  ████████████████████░░░░░   80.65 %
+Other         1 hr 20 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 %
+Text          47 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.90 %
+YAML          37 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 %
+Thrift        13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
 ```
 
 <!--END_SECTION:waka-->
