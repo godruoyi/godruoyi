@@ -12,13 +12,13 @@ Hi there, I work remotely and enjoy using open-source and efficient tools.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 November 2025 - To: 20 November 2025
+From: 14 November 2025 - To: 21 November 2025
 
-Markdown       10 hrs          ██████████░░░░░░░░░░░░░░░   40.34 %
-Bash           4 hrs 35 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.49 %
-Go             4 hrs 23 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.73 %
-Other          3 hrs 33 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.38 %
-shell script   50 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 %
+Markdown       12 hrs          ████████████▒░░░░░░░░░░░░   49.14 %
+Bash           4 hrs 25 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.12 %
+Other          3 hrs 53 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.91 %
+Go             2 hrs 12 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.06 %
+shell script   47 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 %
 ```
 
 <!--END_SECTION:waka-->
