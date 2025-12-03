@@ -12,10 +12,10 @@ Hi there, I work remotely and enjoy using open-source and efficient tools.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 November 2025 - To: 30 November 2025
+From: 24 November 2025 - To: 01 December 2025
 
-Markdown   11 hrs 15 mins  ███████████████████████░░   92.06 %
-Other      58 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 %
+Markdown   7 hrs 48 mins   █████████████████████▒░░░   85.77 %
+Other      1 hr 17 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.23 %
 ```
 
 <!--END_SECTION:waka-->
