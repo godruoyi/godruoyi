@@ -12,10 +12,10 @@ Hi there, I work remotely and enjoy using open-source and efficient tools.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 January 2026 - To: 12 January 2026
+From: 06 January 2026 - To: 13 January 2026
 
-Go      21 hrs 34 mins  ████████████████████░░░░░   79.66 %
-Other   5 hrs 30 mins   █████░░░░░░░░░░░░░░░░░░░░   20.34 %
+Go      20 hrs 10 mins  ███████████████████▒░░░░░   77.88 %
+Other   5 hrs 43 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.12 %
 ```
 
 <!--END_SECTION:waka-->
