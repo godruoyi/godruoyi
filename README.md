@@ -12,13 +12,13 @@ Hi there, I work remotely and enjoy using open-source and efficient tools.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 April 2026 - To: 20 April 2026
+From: 14 April 2026 - To: 21 April 2026
 
-Other            7 hrs 44 mins         █████████░░░░░░░░░░░░░░░░   36.06 %
-Go               6 hrs 50 mins         ████████░░░░░░░░░░░░░░░░░   31.85 %
-Blade Template   2 hrs 2 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.52 %
-JavaScript       1 hr 37 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 %
-Markdown         1 hr 12 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.64 %
+Go               7 hrs 21 mins         ████████▓░░░░░░░░░░░░░░░░   35.26 %
+Other            5 hrs 45 mins         ███████░░░░░░░░░░░░░░░░░░   27.61 %
+Blade Template   3 hrs 47 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.22 %
+JavaScript       54 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 %
+Astro            47 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 %
 ```
 
 <!--END_SECTION:waka-->
