@@ -12,13 +12,13 @@ Hi there, I work remotely and enjoy using open-source and efficient tools.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 September 2026 - To: 14 September 2026
+From: 08 September 2026 - To: 15 September 2026
 
-TypeScript   9 hrs 44 mins         █████████▒░░░░░░░░░░░░░░░   36.83 %
-Go           9 hrs 11 mins         ████████▓░░░░░░░░░░░░░░░░   34.73 %
-Other        3 hrs 10 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.00 %
-Markdown     2 hrs 3 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 %
-Astro        42 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.66 %
+Go           8 hrs 7 mins          ████████▓░░░░░░░░░░░░░░░░   35.31 %
+TypeScript   7 hrs 59 mins         ████████▓░░░░░░░░░░░░░░░░   34.74 %
+Other        3 hrs 40 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.99 %
+Thrift       1 hr 24 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.11 %
+TOML         57 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 %
 ```
 
 <!--END_SECTION:waka-->
